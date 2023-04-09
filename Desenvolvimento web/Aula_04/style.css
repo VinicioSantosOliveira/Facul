@@ -1,0 +1,59 @@
+*{ /* estilizando o elemento raiz da página*/
+    margin: 0 auto; /* margem 0 em cima e em baixo e automática nas laterais*/
+    box-sizing: border-box; /* propridade para a caixa respeitar o tamanho pré-definido*/
+}
+.limpa{ /* classe para limpar as flutuações*/
+    clear: both; /* propriedade para limpar as flutuações*/
+}
+.pai{ /* classe pai envolve todas as caixas da página*/
+    width: 60%; /* faz com que nossa página utiliza apenas 60% da largura total*/
+    background-color: #162E58; /* alterando a cor de fundo*/
+    text-align: center; /* Alinhando os textos ao centros*/
+    font-size: 30px; /* Alterando o tamanho da fonte*/
+}
+.filho{
+    height: 200px; /* definindo uma altura para a classe filho, primeira linha da página*/
+    border: solid; /* criando uma bordar para visualizarmos o que está acontecendo*/
+}
+.filho .neto1{ /* estilizando a classe neto1 que está dentro de filho, a primeira coluna da primeira linha*/
+    border: solid;
+    width: 50%; /* definindo a largura como 50% da sua div pai*/
+    height: 100%; /* definindo a altura como 100% da sua div pai*/
+    float: left; /* criando uma flutuação a esquerda*/
+    
+}
+.filho .neto2{ /* estilizando a classe neto2 que está dentro de filho, a segunda coluna da primeira linha*/
+    border: solid;
+    width: 50%;
+    height: 100%;
+    float: left;
+    
+}
+.filho2 { /* Estilizando a classe filho 2 segunda linha da página*/
+    height: 200px; /* definindo uma altura para a classe filho, segunda linha da página*/
+    border: solid;
+}
+.filho2 .neto1{ /* estilizando a classe neto1 que está dentro de filho2, a primeira coluna da segunda linha*/
+    border: solid;
+    width: 33.33%; /* definindo a largura como 33.33% da sua div pai*/
+    height: 100%;
+    float: left;
+    
+}
+.filho2 .neto2{
+    border: solid;
+    width: 33.33%;
+    float: left;
+    height: 100%;
+}
+.filho2 .neto3{
+    border: solid;
+    width: 33.34%;
+    float: left;
+    height: 100%;
+}
+/* Lembre que a largura somada não pode ultrapassar os 100% que fiquem todos
+na mesma linha.
+Faça testes com outros percentuais para alterar os tamanhos das caixas.
+
+*/

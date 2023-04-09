@@ -1,0 +1,43 @@
+body{
+    background-color: darkgoldenrod;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+.img{
+    border-radius: 50%;
+   margin: 0 auto;
+    width: 240px;
+    height: 240px;
+    background-image: url("./image.jfif");
+}
+hr{
+    margin: 100px;
+    border-color: rgb(0, 0, 0);
+}
+h2{
+    margin-left: 400px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    margin-left: 300px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol{
+    margin-left: 300px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    margin-left: 300px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: rgb(43, 43, 43);
+    font-size: 23px;
+    padding-right: 50px;
+}

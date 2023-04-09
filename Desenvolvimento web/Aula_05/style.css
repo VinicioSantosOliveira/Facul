@@ -1,0 +1,107 @@
+    *{
+    margin: 0 auto;
+    box-sizing: border-box;
+    }
+    .pai{
+    width: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid;
+    }
+    .limpar{
+    clear: both;
+    }
+    .topo{
+    height: 80px;
+    background-color: rgb(76, 44, 105);
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    }
+    .topo span{
+    margin: 0 20px;
+    padding-top: 10px;
+    display: inline-block;
+    }
+    .topo img{
+    height: 20px;
+    
+    width: 20px;
+    }
+    .perfil{
+    height: 200px;
+    border-bottom: 2px solid;
+    }
+    .dados{
+    width: 60%;
+    float: left;
+    text-align: right;
+    padding-top: 60px;
+    padding-right: 20px;
+    }
+    .dados p{
+    font-size: 20px;
+    }
+    .foto{
+    width: 40%;
+    float: left;
+    }
+    .foto img{
+    width: 140px;
+    height: 130px;
+    border-radius: 50%;
+    margin-top: 30px;
+    clear: both;
+    }
+    .experiencias{
+    width: 60%;
+    float: left;
+    padding-left: 5px;
+    }
+    .experiencias h2{
+    text-decoration: underline;
+    }
+    .experiencias p{
+    padding-left: 20px;
+    padding-right: 10px;
+    }
+    .tech{
+    
+    width: 40%;
+    float: left;
+    border-left: 2px solid;
+    padding-left: 5px;
+    }
+    .tech h2{
+    text-decoration: underline;
+    }
+    .tech p{
+    width: 50%;
+    float: left;
+    clear: both;
+    margin-bottom: 5px;
+    }
+    .circulo{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: rgb(76, 44, 105);
+    margin-right: 5px;
+    float: left;
+    }
+    .educacao{
+    width: 100%;
+    float: left;
+    border-top: 2px solid;
+    padding-left: 10px;
+    }
+    .educacao h2{
+    text-decoration: underline;
+    padding-bottom: 10px;
+    }
+    .educacao p{
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    }
