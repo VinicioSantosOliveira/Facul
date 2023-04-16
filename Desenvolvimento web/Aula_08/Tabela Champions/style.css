@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    height: 100px;
+    background-color: #162E58;
+    color: white;
+    
+}
+.header h1{
+    padding-top: 15px;
+    padding-left: 20px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.header h2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    padding-top: 45px;
+}
+.grupos, .gols{
+    margin: 0 auto;
+    width: 60%; /*Fiz com que as tabelas oucupem 60% da largura total da página.*/
+    background-color: white;
+    font-size: 14px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    padding-top: 15px;
+}
+table, th, td, tr{
+    padding: 5px;
+}
+th, td{
+    border-top: 0.5px solid #70757a;
+}
+th{
+    color: #70757a;
+    font-weight: normal;
+    border-top: none
+}
+.img-club{
+    width: 24px;
+    height: 24px;
+}
+tr{
+    text-align: center;
+}
+.grupos h3{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+body{
+    background-color: rgb(240, 240, 240);
+}
+.left{
+    text-align: left;
+}
+.bl-blue{
+    border-left: #4285f4 3px solid;
+}
+.bl-orange{
+    border-left: #FA7B17 3px solid;
+}
+.img-jogador{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+.w30{
+    width: 30px;
+}
+.cartao{ /*criei a classe dos cartoes em css*/
+    margin: 0 auto;
+    width: 60%;
+    background-color: white;
+    font-size: 14px;
+}
+.img-cartao{ /*classe da formataçao das imagens dos cartoes*/
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    
+}
+.w170{
+    width: 170px;
+}

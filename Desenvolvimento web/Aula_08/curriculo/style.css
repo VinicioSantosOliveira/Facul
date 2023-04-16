@@ -1,0 +1,105 @@
+*{
+    margin: 0 auto; /*Utilizei margin*/
+    box-sizing: border-box;
+    }
+    .pai{ /*estilizado por classe*/
+    width: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*alterei o tipo da fonte*/
+    border: 1px solid; /*ultilizei border*/
+    }
+    .limpar{
+    clear: both;
+    }
+    .topo{
+    height: 80px;
+    background-color: rgb(76, 44, 105); /*alterei a cor do fundo de uma seção da página através de uma classe*/
+    margin-top: 20px;
+    color: white; /*alterei a cor da fonte*/
+    font-size: 20px; /*alterei o tamanho da fonte*/
+    text-align: justify;
+    }
+    .topo span{
+    margin: 0 20px;
+    padding-top: 10px; /*utilizei padding*/
+    display: inline-block;
+    }
+    .topo img{
+    height: 20px;
+    width: 20px;
+    }
+    .perfil{
+    height: 200px;
+    border-bottom: 2px solid;
+    }
+    .dados{
+    width: 60%;
+    float: left;
+    text-align: right;
+    padding-top: 60px;
+    padding-right: 20px;
+    }
+    .dados p{
+    font-size: 20px;
+    }
+    .foto{
+    width: 40%;
+    float: left;
+    }
+    .foto img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 30px;
+    clear: both;
+    }
+    .experiencias{
+    width: 60%;
+    float: left; /*utilizei o float para colocar uma div do lado da outra*/
+    padding-left: 5px;
+    }
+    .experiencias h2{
+    text-decoration: underline; /*titulo sublinhado*/
+    }
+    .experiencias p{
+    padding-left: 20px;
+    padding-right: 10px;
+    }
+    .tech{
+    width: 40%;
+    float: left; /*utilizei o float para colocar uma div do lado da outra*/
+    border-left: 2px solid;
+    padding-left: 5px;
+    }
+    .tech h2{
+    text-decoration: underline;
+    }
+    .tech p{
+    width: 50%;
+    float: left;
+    clear: both;
+    margin-bottom: 5px;
+    }
+    .circulo{ /*Utilizei imagens de circulos para criar os elementos de níveis*/
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: rgb(76, 44, 105);
+    margin-right: 5px;
+    float: left;
+    }
+    .educacao{ /* Definindo largura e flutuação a esquerda para classe dados.*/
+    width: 100%;
+    float: left;
+    border-top: 2px solid;
+    padding-left: 10px;
+    }
+    .educacao h2{
+    text-decoration: underline;
+    padding-bottom: 10px;
+    }
+    .educacao p{
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    }
