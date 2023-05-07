@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /*wrap nao deixa as imagens se esmagar*/
+    justify-content: center;
+    align-items: flex-start;
+    background-color: black;
+    height: 50vh;
+}
+.box{
+    font-size: 4rem;
+    color: white;
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*min-width: 150px; esse serve para limitar
+     por exemplo uma foto o minimo que ela pode diminuir*/
+}
+.container2{
+    background-color: green;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    max-width: 1000px;
+}
+@media screen and (max-width: 600px) { /*isso vai acontecer quando a tela ficar nesse tamanho de px*/
+    body{
+        background-color: yellow;
+    }
+}
