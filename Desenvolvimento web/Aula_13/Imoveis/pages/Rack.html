@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rack</title>
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <header id="rack" class="bg-black text-white text-center p-5">
+        <h1>Rack</h1>
+    </header><!--Fim Header-->
+
+    <nav class="navbar navbar-expand-sm bg-dark">
+        <div class="container-fluid justify-content-center">
+            <!-- Links -->
+            <ul class="navbar-nav text-center">
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="../index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="../pages/Cadastro.html">Cadastro</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="../pages/Login.html">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="../pages/Contato.html">Contato</a>
+                </li>
+                <li>
+                    <div class="dropdown">
+                        <button type="button" class="btn bg-white dropdown-toggle" data-bs-toggle="dropdown">
+                            Produtos
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="../pages/Sofa.html">Sofá</a></li>
+                            <li><a class="dropdown-item" href="../pages/Guarda-roupa.html">Guarda-roupa</a></li>
+                            <li><a class="dropdown-item" href="../pages/Escrivaninha.html">Escrivaninha</a></li>
+                            <li><a class="dropdown-item" href="../pages/Comoda.html">Cômoda</a></li>
+                            <li><a class="dropdown-item" href="#rack">Rack</a></li>
+                            <li><a class="dropdown-item" href="../pages/Banqueta.html">Banqueta</a></li>
+                        </ul>
+                    </div><!-- Fechamento do Menu suspenso-->
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="p-2"></div>
+
+    <!-- Carousel -->
+    <div id="demo" class="carousel slide bg-black w-75 mx-auto" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="/Imoveis/img/Rack.jpg" alt="Los Angeles" class="d-block w-75 mx-auto">
+            </div>
+            <div class="carousel-item">
+                <img src="/Imoveis/img/rackLimpo.jpg" alt="Chicago" class="d-block w-75 mx-auto">
+            </div>
+            <div class="carousel-item">
+                <img src="/Imoveis/img/rackAberto.jpg" alt="New York" class="d-block w-75 mx-auto">
+            </div>
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div><!--Fim carrossel-->
+
+    <!--descriçao-->
+    <div class="container-fluid p-1 bg-white text-black text-center">
+        <h1>Descrição do produto</h1>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-sm-12">
+                <p>Com estrutura completa para deixar sua sala de estar bem organizada e, claro, com um visual charmoso,
+                    o Rack Weimar é a melhor escolha para quem quer criar um lar-style incrível. Além dos compartimentos
+                    internos, você também tem disponível o tampo amplo, e, juntos, eles vão acomodar os eletrônicos e
+                    aqueles outros objetos essenciais à rotina, sejam decorativos ou não. Enquanto isso, o visual vai
+                    potencializar o bom gosto desse cômodo, além de facilitar muito na hora de combiná-lo com o sofá,
+                    mesinha lateral e demais itens que você gosta de usar para deixar o centro de entretenimento mais
+                    aconchegante e com seu toque pessoal. Daí é só chamar a família toda para curtir um filme ou para um
+                    bate-papo descontraído ;)
+                </p>
+            </div>
+        </div>
+    </div><!--fim descriçao-->
+
+    <div class="text-center p-5">
+        <a href="../pages/Compra.html" class="btn bg-danger text-white">
+            <h3>COMPRAR</h3>
+        </a>
+    </div><!--fim comprar-->
+
+    <div class="text-center p-2">
+        <a href="../index.html" class="btn btn-primary">Voltar</a>
+    </div>
+
+    <footer class="navbar navbar-expand-sm bg-black">
+        <div class="container-fluid justify-content-center p-5">
+            <!-- Links -->
+            <ul id="Contatos" class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">Contatos: (xx) XXXX XXXX</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">Email: Viniciooliveira@yahool.com</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">&copy; Todos os direitos reservados!</a>
+                </li>
+            </ul>
+        </div>
+    </footer><!--Fim footer-->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
