@@ -1,3 +1,5 @@
+alunos = 0
+
 while True:
     print("Selecione uma opção.")
     print("1. Criar alunos")
@@ -12,12 +14,16 @@ while True:
     #Cadastro do aluno
     if opcao == 1:
 
-        nomeAluno = input("Digite seu nome: ")
-        idadeAluno = input("Digite sua idade: ")
+        nomeAluno = input("Digite o nome do aluno: ")
+        idadeAluno = input("Digite a idade do aluno: ")
+        if len (alunos) == 0:
+            id_aluno = 1
+        else:
+            id_aluno = alunos[-1][0]+ 1
+            dados_aluno = [id_aluno, nomeAluno, idadeAluno]
+            alunos.append(dados_aluno)
+            print("aluno criado com sucesso.")
 
-        alunoID = 1
-
-        pass
     #Consultar aluno
     elif opcao == 2:
         pass
