@@ -1,0 +1,25 @@
+.preto{
+    background-color: black;
+    color: white;
+}
+.branco{
+    background-color: white;
+    color: black;
+}
+.red{
+    color: red;
+    background-color: rgb(154, 90, 90);
+}
+.green{
+    color: rgb(21, 153, 21);
+    background-color: greenyellow;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+    height: 100vh;
+    width: 100vw;
+}

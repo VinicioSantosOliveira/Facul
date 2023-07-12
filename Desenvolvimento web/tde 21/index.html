@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="container" id="body">
+    <header>
+        <h1>Lista de tarefas</h1>
+    </header>
+
+    <section>
+        <form>
+            <label for="task">Nome da tarefa: </label>
+            <input type="text" id="task">
+            <button type="button" onclick="adicionar()">Adicionar</button>
+
+        </form>
+
+        <ol id="pendentes"><h2>Tarefas pendentes</h2></ol>
+        <ol id="concluidos"><h2>Tarefas concluidas</h2></ol>
+    </section>
+
+    <button onclick="mudarPlanoDeFundo()">Mudar Plano de Fundo</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
