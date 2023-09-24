@@ -1,0 +1,14 @@
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.AssemblyInfoInputs.cache
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.AssemblyInfo.cs
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.csproj.CoreCompileInputs.cache
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\bin\Debug\net7.0\seletor.exe
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\bin\Debug\net7.0\seletor.deps.json
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\bin\Debug\net7.0\seletor.runtimeconfig.json
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\bin\Debug\net7.0\seletor.dll
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\bin\Debug\net7.0\seletor.pdb
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.dll
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\refint\seletor.dll
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.pdb
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\seletor.genruntimeconfig.cache
+C:\Users\viniciosoliveira\Desktop\Aula_06\seletor\obj\Debug\net7.0\ref\seletor.dll

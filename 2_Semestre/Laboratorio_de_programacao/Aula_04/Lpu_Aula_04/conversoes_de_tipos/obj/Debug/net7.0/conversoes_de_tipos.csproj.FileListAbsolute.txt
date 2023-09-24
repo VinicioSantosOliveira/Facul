@@ -1,0 +1,4 @@
+C:\Users\viniciosoliveira\Desktop\Lpu\conversoes_de_tipos\obj\Debug\net7.0\conversoes_de_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciosoliveira\Desktop\Lpu\conversoes_de_tipos\obj\Debug\net7.0\conversoes_de_tipos.AssemblyInfoInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\conversoes_de_tipos\obj\Debug\net7.0\conversoes_de_tipos.AssemblyInfo.cs
+C:\Users\viniciosoliveira\Desktop\Lpu\conversoes_de_tipos\obj\Debug\net7.0\conversoes_de_tipos.csproj.CoreCompileInputs.cache

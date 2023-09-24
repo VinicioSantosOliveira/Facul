@@ -1,0 +1,14 @@
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\bin\Debug\net7.0\formatacao.exe
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\bin\Debug\net7.0\formatacao.deps.json
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\bin\Debug\net7.0\formatacao.runtimeconfig.json
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\bin\Debug\net7.0\formatacao.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\bin\Debug\net7.0\formatacao.pdb
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.AssemblyInfoInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.AssemblyInfo.cs
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.csproj.CoreCompileInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\refint\formatacao.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.pdb
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\formatacao.genruntimeconfig.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\formatacao\obj\Debug\net7.0\ref\formatacao.dll

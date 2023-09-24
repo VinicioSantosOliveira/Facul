@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\bin\Debug\net7.0\ex_5.exe
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\bin\Debug\net7.0\ex_5.deps.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\bin\Debug\net7.0\ex_5.runtimeconfig.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\bin\Debug\net7.0\ex_5.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\bin\Debug\net7.0\ex_5.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\refint\ex_5.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ex_5.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_3\Exercicios\ex_5\obj\Debug\net7.0\ref\ex_5.dll

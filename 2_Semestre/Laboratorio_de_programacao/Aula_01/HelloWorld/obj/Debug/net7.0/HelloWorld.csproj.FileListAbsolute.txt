@@ -1,0 +1,15 @@
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Users\vinic\Lpu\Aula_1\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

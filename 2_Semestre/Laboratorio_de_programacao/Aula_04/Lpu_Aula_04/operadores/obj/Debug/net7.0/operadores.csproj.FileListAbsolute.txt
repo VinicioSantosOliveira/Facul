@@ -1,0 +1,14 @@
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\bin\Debug\net7.0\operadores.exe
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\bin\Debug\net7.0\operadores.deps.json
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\bin\Debug\net7.0\operadores.runtimeconfig.json
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\bin\Debug\net7.0\operadores.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\bin\Debug\net7.0\operadores.pdb
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.AssemblyInfoInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.AssemblyInfo.cs
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\refint\operadores.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.pdb
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\operadores.genruntimeconfig.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\operadores\obj\Debug\net7.0\ref\operadores.dll

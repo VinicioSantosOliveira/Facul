@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\bin\Debug\net7.0\Tde_aula_04.exe
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\bin\Debug\net7.0\Tde_aula_04.deps.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\bin\Debug\net7.0\Tde_aula_04.runtimeconfig.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\bin\Debug\net7.0\Tde_aula_04.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\bin\Debug\net7.0\Tde_aula_04.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\refint\Tde_aula_04.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\Tde_aula_04.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_04\Tde_aula_04\obj\Debug\net7.0\ref\Tde_aula_04.dll

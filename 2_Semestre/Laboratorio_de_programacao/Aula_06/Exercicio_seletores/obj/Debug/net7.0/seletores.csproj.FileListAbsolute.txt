@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\bin\Debug\net7.0\seletores.exe
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\bin\Debug\net7.0\seletores.deps.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\bin\Debug\net7.0\seletores.runtimeconfig.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\bin\Debug\net7.0\seletores.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\bin\Debug\net7.0\seletores.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\refint\seletores.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\seletores.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_06\seletores\obj\Debug\net7.0\ref\seletores.dll

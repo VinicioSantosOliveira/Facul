@@ -1,0 +1,14 @@
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\bin\Debug\net7.0\convercao.exe
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\bin\Debug\net7.0\convercao.deps.json
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\bin\Debug\net7.0\convercao.runtimeconfig.json
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\bin\Debug\net7.0\convercao.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\bin\Debug\net7.0\convercao.pdb
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.AssemblyInfoInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.AssemblyInfo.cs
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.csproj.CoreCompileInputs.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\refint\convercao.dll
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.pdb
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\convercao.genruntimeconfig.cache
+C:\Users\viniciosoliveira\Desktop\Lpu\convercao\obj\Debug\net7.0\ref\convercao.dll
