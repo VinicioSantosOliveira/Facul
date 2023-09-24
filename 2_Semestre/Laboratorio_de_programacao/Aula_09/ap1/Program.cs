@@ -61,7 +61,7 @@ do
     }
 
     //RELATORIO
-    Console.WriteLine($"Nome: {nome}");
+    Console.WriteLine($"\nNome: {nome}");
     Console.WriteLine($"Idade: {idade}");
     Console.WriteLine($"Faixa Etária: {faixaEtaria}");
     Console.WriteLine($"Imc: {imc} = {IMC}");
