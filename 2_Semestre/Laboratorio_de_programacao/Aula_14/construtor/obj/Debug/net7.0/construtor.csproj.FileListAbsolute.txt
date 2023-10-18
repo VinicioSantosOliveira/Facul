@@ -1,0 +1,15 @@
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\bin\Debug\net7.0\construtor.exe
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\bin\Debug\net7.0\construtor.deps.json
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\bin\Debug\net7.0\construtor.runtimeconfig.json
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\bin\Debug\net7.0\construtor.dll
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\bin\Debug\net7.0\construtor.pdb
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.csproj.AssemblyReference.cache
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.AssemblyInfoInputs.cache
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.AssemblyInfo.cs
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.csproj.CoreCompileInputs.cache
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.dll
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\refint\construtor.dll
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.pdb
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\construtor.genruntimeconfig.cache
+C:\Users\viniciosoliveira\Desktop\C#\Aula_14\construtor\obj\Debug\net7.0\ref\construtor.dll
