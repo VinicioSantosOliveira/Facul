@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\bin\Debug\net7.0\TdeConstrutor.exe
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\bin\Debug\net7.0\TdeConstrutor.deps.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\bin\Debug\net7.0\TdeConstrutor.runtimeconfig.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\bin\Debug\net7.0\TdeConstrutor.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\bin\Debug\net7.0\TdeConstrutor.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\refint\TdeConstrutor.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\TdeConstrutor.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_14\TdeConstrutor\obj\Debug\net7.0\ref\TdeConstrutor.dll

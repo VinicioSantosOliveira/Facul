@@ -4,7 +4,7 @@ class Carro
     public string modelo;
     public int ano;
 
-    //construtor com valores default caso no haja parametros passados
+    //construtor com valores default caso nao haja parametros passados
     public Carro()
     {
         this.marca = "indefinido";
