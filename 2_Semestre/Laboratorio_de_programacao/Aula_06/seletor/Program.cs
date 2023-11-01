@@ -112,7 +112,7 @@ switch (dia)
 //--------------------------------------------
 
 Console.WriteLine("Informe seu estado civil\n(S - solteiro, C - casado, D - divorciado, V - viúvo): ");
-char estadoCivil = Char.ToUpper(Convert.ToChar(Console.ReadLine()));
+char estadoCivil = Char.ToUpper(Convert.ToChar(Console.ReadLine()!));
 
 switch (estadoCivil)
 {
