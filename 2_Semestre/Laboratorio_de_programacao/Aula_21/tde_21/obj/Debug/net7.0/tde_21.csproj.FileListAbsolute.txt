@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\bin\Debug\net7.0\tde_21.exe
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\bin\Debug\net7.0\tde_21.deps.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\bin\Debug\net7.0\tde_21.runtimeconfig.json
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\bin\Debug\net7.0\tde_21.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\bin\Debug\net7.0\tde_21.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\refint\tde_21.dll
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.pdb
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\tde_21.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Codigos\Facul\2_Semestre\Laboratorio_de_programacao\Aula_21\tde_21\obj\Debug\net7.0\ref\tde_21.dll
