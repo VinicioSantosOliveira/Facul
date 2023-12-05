@@ -1,0 +1,29 @@
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\bin\Debug\net7.0\AS-Pratica.exe
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\bin\Debug\net7.0\AS-Pratica.deps.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\bin\Debug\net7.0\AS-Pratica.runtimeconfig.json
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\bin\Debug\net7.0\AS-Pratica.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\bin\Debug\net7.0\AS-Pratica.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.AssemblyInfoInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.AssemblyInfo.cs
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.csproj.CoreCompileInputs.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\refint\AS-Pratica.dll
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.pdb
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\AS-Pratica.genruntimeconfig.cache
+C:\Users\lfe20\OneDrive\Documentos\Aula\ulbra\2023-2º-Semestre\Laboratorio de Programação 2° semestre\Aula_22\AS-Prática\AS-Pratica\obj\Debug\net7.0\ref\AS-Pratica.dll
+C:\Users\vinic\Desktop\AS-Pratica\bin\Debug\net7.0\AS-Pratica.exe
+C:\Users\vinic\Desktop\AS-Pratica\bin\Debug\net7.0\AS-Pratica.deps.json
+C:\Users\vinic\Desktop\AS-Pratica\bin\Debug\net7.0\AS-Pratica.runtimeconfig.json
+C:\Users\vinic\Desktop\AS-Pratica\bin\Debug\net7.0\AS-Pratica.dll
+C:\Users\vinic\Desktop\AS-Pratica\bin\Debug\net7.0\AS-Pratica.pdb
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.AssemblyInfo.cs
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.dll
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\refint\AS-Pratica.dll
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.pdb
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\AS-Pratica.genruntimeconfig.cache
+C:\Users\vinic\Desktop\AS-Pratica\obj\Debug\net7.0\ref\AS-Pratica.dll
